@@ -10496,7 +10496,7 @@ ul.countdown li p.timeRefSeconds {
 }
 
 footer {
-	padding: 50px 0 0;
+	padding: 25px 0 0;
 	background: #1f1f1f;
 	color: #939393
 }
@@ -11062,8 +11062,8 @@ footer h3.normal:after {
 }
 
 .footer-style4>.container {
-	padding-top: 90px;
-	padding-bottom: 90px
+	padding-top: 50px;
+	padding-bottom: 25px
 }
 
 .footer-style4 h3 {
